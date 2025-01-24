@@ -67,3 +67,5 @@ pip install -e ~/repo/autopipy
 ```
 
 13. Install positrack2
+
+The starting point for the analysis is in the README.md located in the behavior_only and electrophys_behavior directories.
